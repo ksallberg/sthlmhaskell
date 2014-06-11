@@ -1,11 +1,11 @@
 sthlmhaskell cloud haskell chat
 ===============================
 
-for ghc base < 5, download from hackage:
-cabal update
-cabal install cabal-install
-cabal install distributed-process
-cabal install distributed-process-simplelocalnet
+for ghc base < 5, download from hackage: <br>
+cabal update <br>
+cabal install cabal-install <br>
+cabal install distributed-process <br>
+cabal install distributed-process-simplelocalnet <br>
 
 for ghc base >= 5, download from:
 http://haskell-distributed.github.io
