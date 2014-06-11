@@ -1,6 +1,8 @@
 sthlmhaskell cloud haskell chat
 ===============================
 
+<b>You can use CloudExample.hs to see if Cloud Haskell is installed properly. Simply runhaskell CloudExample.hs</b>
+
 for ghc base < 5, download from hackage: <br>
 cabal update <br>
 cabal install cabal-install <br>
