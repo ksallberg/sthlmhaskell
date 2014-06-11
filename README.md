@@ -24,3 +24,10 @@ dist/build/the-chat/the-chat server 127.0.0.1 10001
 dist/build/the-chat/the-chat client 127.0.0.1 10002
 dist/build/the-chat/the-chat client 127.0.0.1 10003
 dist/build/the-chat/the-chat client 127.0.0.1 10004
+
+relevant papers:
+A unified semantics for future Erlang:
+http://dl.acm.org/citation.cfm?id=1863514
+
+Towards Haskell in the Cloud:
+http://research.microsoft.com/en-us/um/people/simonpj/papers/parallel/remote.pdf
